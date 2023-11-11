@@ -4,4 +4,4 @@ description: A blog featuring essays at the intersection of my interests - math,
 theme: minima
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  mathjax: true
