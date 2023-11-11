@@ -1,5 +1,5 @@
 ---
-title: This is the home page.
+title: Welcome to Random Thoughts!
 ---
 
-I don't know what to write right now.
+This is a blog where I will post essays inspired by my passions - science, math, programming, music, and literature.
