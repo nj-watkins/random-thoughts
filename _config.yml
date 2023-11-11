@@ -1,7 +1,9 @@
 title: Random Thoughts
 author: N. J. Watkins
 description: A blog featuring essays at the intersection of my interests - math, programming, music, and literature.
-theme: minima
+remote-theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 kramdown:
   mathjax: true
+plugins: 
+  - jekyll-include-cache
